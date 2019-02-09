@@ -86,7 +86,9 @@ class CampaignList extends Component {
                 return div;
               }}>
                 <div className="history-view">
-                  <h2>check</h2>
+                  <h2>History</h2>
+                  <h4>Campaign Name</h4>
+                  <p>Campaign Description</p>
                 </div>
               </div>
             </div>
