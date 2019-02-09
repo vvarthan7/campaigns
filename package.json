@@ -1,7 +1,7 @@
 {
   "name": "campaigns",
   "version": "0.1.0",
-  "homepage" : "http://vvarthan7.github.io/",
+  "homepage" : "http://vvarthan7.github.io/campaigns",
   "private": true,
   "dependencies": {
     "react": "^16.8.1",
